@@ -15,7 +15,7 @@
 
 - 🎓 Seoul University of Science and Technology (SeoulTech) student majoring in **Information Technology Management**
 - 💻 Interested in **full-stack development**, **Information Security**, **data/ML**
-- 🥚 Building / maintaining **Nacimiento**, a gamified journaling platform
+- 🌷 Building / maintaining **Petalogue**, a gamified journaling platform
 - 📚 Currently learning Information Security, Operating Systems, Homomorphic Encryption
 - 🛠️ I like turning messy ideas into structured plans, specs, and working prototypes
 
